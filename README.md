@@ -1,7 +1,7 @@
 # JiaoCaiSys
 基于SSM的教材管理系统教务系统
 
-演示视频链接：https://live.csdn.net/v/181396
+演示视频链接：https://www.bilibili.com/video/BV1qT4y1o7qE/
 
 用到的主要技术：
 
